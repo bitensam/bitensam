@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitensam, but actually my name is Jakub Wójcik.
 - 👀 I’m interested in start a regular job in it development industry and take a part in creating a new life changing software.
-- 🌱 I’m currently learning JS, ReactJS & Firebase
+- 🌱 I’m currently making some React projects: Another Weather App and a company landing page with subpages in React. Also I'm still learning vanilla JS, ReactJS & a little bit of Firebase. 
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me: j.wojcik1994@gmail.com
 
